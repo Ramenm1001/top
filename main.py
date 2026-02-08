@@ -6,5 +6,10 @@ print("feature")
 def feature():
     return 'wow'
 
+
+def greetings():
+    print("Всем привет")
+
+
 def feature2():
     print('hello hello')
