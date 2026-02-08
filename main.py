@@ -5,3 +5,6 @@ print("feature")
 
 def feature():
     return 'wow'
+
+def feature2():
+    print('hello hello')
