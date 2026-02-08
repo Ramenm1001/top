@@ -11,5 +11,11 @@ def greetings():
     print("Всем привет")
 
 
+print(feature())
+
+def fuction():
+    print(1)
+
+
 def feature2():
     print('hello hello')
