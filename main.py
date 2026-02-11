@@ -8,7 +8,7 @@ def feature():
 
 
 def greetings():
-    print("Всем привет")
+    print("Всем привет123")
 
 
 print(feature())
